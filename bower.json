@@ -1,0 +1,26 @@
+{
+  "name": "project-angular-bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mete0r/project-angular-bootstrap",
+  "authors": [
+    "mete0r <mete0r@sarangbang.or.kr>"
+  ],
+  "main": [
+    "app/index.html",
+    "app/css/app.css",
+    "app/js/app.js"
+  ],
+  "license": "AGPLv3+",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.10.0",
+    "bootstrap": "~3.1.1"
+  }
+}

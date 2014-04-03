@@ -1,0 +1,12 @@
+bin
+parts
+eggs
+develop-eggs
+.installed.cfg
+.*.sw?
+*.pyc
+*.egg-info
+app/lib
+.mr.developer.cfg
+src/mete0r.bowerdist
+src/mete0r.assetinject
