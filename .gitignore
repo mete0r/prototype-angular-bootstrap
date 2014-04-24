@@ -10,3 +10,5 @@ app/lib
 .mr.developer.cfg
 src/mete0r.bowerdist
 src/mete0r.assetinject
+etc
+var
